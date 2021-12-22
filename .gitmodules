@@ -1,0 +1,4 @@
+[submodule "alextrubkina.githab.io"]
+	path = alextrubkina.githab.io
+	url = https://github.com/AlexTrubkina/alextrubkina.githab.io
+	branch = main
